@@ -11,6 +11,16 @@ It provides actionable insights for **content creators and advertisers** to maxi
 
 ---
 
+
+## 📁 Project Structure
+youtube-content-analysis/
+│── YouTube_Content_Strategy_Analysis.ipynb
+│── README.md
+│── requirements.txt
+│── YouTube Content Strategy Analysis ppt.pdf
+
+---
+
 ## 🎯 Objectives
 
 - Identify key drivers of views and engagement  
@@ -29,8 +39,7 @@ It provides actionable insights for **content creators and advertisers** to maxi
   - Publish time (hour & day)  
   - Category & country data  
 
-📌 Dataset Link: *(Add your dataset link here)*
-
+📌 Dataset Link: https://www.kaggle.com/datasets/datasnaek/youtube-new
 ---
 
 ## 🛠️ Tech Stack
@@ -99,19 +108,6 @@ It provides actionable insights for **content creators and advertisers** to maxi
 - **Music dominates total views**  
 - Entertainment is second highest  
 - Gaming & niche categories have lower reach  
-- Entertainment holds ~40%+ category share :contentReference[oaicite:0]{index=0}  
-
----
-
-## 📸 Sample Visualizations
-
-- Engagement Rate by Category  
-- Publish Hour vs Views  
-- Views by Day of Upload  
-- Correlation Heatmap  
-- Top Creators Analysis  
-
-*(Add screenshots from your notebook here for better impact)*
 
 ---
 
