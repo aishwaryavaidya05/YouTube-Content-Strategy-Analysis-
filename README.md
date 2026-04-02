@@ -13,7 +13,7 @@ It provides actionable insights for **content creators and advertisers** to maxi
 
 
 ## 📁 Project Structure
-youtube-content-analysis/
+YouTube-Content-Strategy-Analysis-/
 │── YouTube_Content_Strategy_Analysis.ipynb
 │── README.md
 │── requirements.txt
